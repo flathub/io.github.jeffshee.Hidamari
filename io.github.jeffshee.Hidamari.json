@@ -34,7 +34,7 @@
     "modules": [
         "vlc-slim.json",
         "shared-modules/libappindicator/libappindicator-gtk3-introspection-12.10.json",
-        "pypi-dependencies.json",
+        "python3-requirements.json",
         {
             "name": "gnome-desktop",
             "buildsystem": "meson",
@@ -164,8 +164,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/jeffshee/hidamari.git",
-                    "tag": "v3.1",
-                    "commit": "87f66c00c664099a5848c09dc6d01c23a27f7040"
+                    "tag": "v3.2",
+                    "commit": "4790dd492986fd7e62a5fef95566e1cf18866e10"
                 }
             ]
         }
