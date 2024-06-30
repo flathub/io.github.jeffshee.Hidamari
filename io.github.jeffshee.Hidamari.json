@@ -163,8 +163,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/jeffshee/hidamari.git",
-                    "tag": "v3.5",
-                    "commit": "12d3838b1861f5ced2e8f87495ca5a4fa28ab56c"
+                    "tag": "v3.5-2",
+                    "commit": "04d5d5be9813e75a3ae673259b7fb6f30be59003"
                 }
             ]
         }
