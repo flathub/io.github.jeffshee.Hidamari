@@ -13,7 +13,7 @@
         "*.la",
         "*.a"
     ],
-    "cleanup-commands": [
+    "post-install": [
         "mkdir -p /app/share/vlc/extra",
         "ln -s /app/share/vlc/extra/plugins /app/lib/vlc/plugins/extra",
         "rm -f /app/lib/vlc/plugins/plugins.dat",
